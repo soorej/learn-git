@@ -1,3 +1,3 @@
 Branch check.
-Not in master.
+Master.
 
