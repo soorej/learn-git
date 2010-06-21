@@ -2,11 +2,5 @@ This is test file
 
 Adding line 2 
 Hi am testing with this files
-ssss
-sadasd
-adsads
-adsdas
-sds
-
-BBBBBBBBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAAA
+Reduced file.
 By branch soorej
